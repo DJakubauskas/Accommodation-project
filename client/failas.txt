@@ -1,0 +1,13 @@
+const accommodation = [
+  { id: '1', street: 'Vytenio g. 10', description: 'Lofto nuoma Naujamiestyje', city: 'Vilnius', type: 'Flat', pricePerMonth: 500, rooms: 1, status: available/occupied, perks: [ Wifi, Kitchen, Free parking, Washing Machine]},
+  
+  { id: '2', street: 'Verkių g. 10', city: 'Vilnius', type: 'Loft', pricePerMonth: 400, rooms: 1},
+  { id: '3', street: 'Jaunimo g. 17', city: 'Vilnius', type: 'Studio', pricePerMonth: 300, rooms: 2},
+  { id: '4', street: 'Veidrodžių g. 75', city: 'Vilnius', type: 'Loft', pricePerMonth: 220, rooms: 1},
+  { id: '5', street: 'Gedimino pr. 18', city: 'Vilnius', type: 'Flat', pricePerMonth: 370, rooms: 1},
+  { id: '6', street: 'Jonavos g. 17', city: 'Vilnius', type: 'Loft', pricePerMonth: 300, rooms: 2},
+  { id: '7', street: 'Savanorių pr. 21a', city: 'Vilnius', type: 'Flat', pricePerMonth: 600, rooms: 1},
+  { id: '8', street: 'Partizanų g. 55', city: 'Vilnius', type: 'Flat', pricePerMonth: 350, rooms: 1},
+  { id: '9', street: 'Krantų pr. 18', city: 'Vilnius', type: 'Studio', pricePerMonth: 270, rooms: 1},
+  { id: '10',street: 'Krantų pr. 18', city: 'Vilnius', type: 'Studio', pricePerMonth: 350, rooms: 1},
+];
