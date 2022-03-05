@@ -1,10 +1,10 @@
-# Accommodation application
+## Accommodation application
 
-## Install Programs:
+### Install Programs:
 * Node.js
 
-## Install libraries
+### Install libraries
   $npm i
 
-## Lounch server
+### Lounch server
   $npm start
